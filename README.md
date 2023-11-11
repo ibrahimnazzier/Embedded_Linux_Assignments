@@ -15,8 +15,8 @@ https://www.coursera.org/specializations/advanced-embedded-linux-development
 ### Assignment 2 Repo: 
 <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignment-2-ibrahimnazzier" target="_blank">Assignment-2</a>
 ### Assignment Objectives:
-*. Getting familiar with Linux File I/O and its system calls 
-*. How to open, create, close, write, and read a File I/O
-*. Replacing old writer script with a c program using I/O syscalls
-*. Installing a Cross-compiler for ARM processors.
-*. Writing a Makefile script to compile the .c file for specified ARCH
+* Getting familiar with Linux File I/O and its system calls 
+* How to open, create, close, write, and read a File I/O
+* Replacing old writer script with a c program using I/O syscalls
+* Installing a Cross-compiler for ARM processors.
+* Writing a Makefile script to compile the .c file for specified ARCH
