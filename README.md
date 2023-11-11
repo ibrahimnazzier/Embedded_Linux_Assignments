@@ -7,10 +7,10 @@ https://www.coursera.org/specializations/advanced-embedded-linux-development
 ### Assignment 1 Repo: 
 <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignment-1-ibrahimnazzier" target="_blank">Assignment-1</a>
 ### Assignment Objectives:
-*. Getting familiar with assignments environment (setup docker, GitHub actions, and self-hosted runners for automated testing)
-*. Getting familiar with the Linux command line
-*. Getting familiar with Shell scripting
-*. write 2 shell scripts for finding a text in a file and writing text in a specified file.
+* Getting familiar with assignments environment (setup docker, GitHub actions, and self-hosted runners for automated testing)
+* Getting familiar with the Linux command line
+* Getting familiar with Shell scripting
+* write 2 shell scripts for finding a text in a file and writing text in a specified file.
 
 ### Assignment 2 Repo: 
 <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignment-2-ibrahimnazzier" target="_blank">Assignment-2</a>
