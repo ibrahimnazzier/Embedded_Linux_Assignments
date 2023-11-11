@@ -2,7 +2,7 @@
 ## My Github Repos for my Assignments for specialization Advanced embedded Linux development (on Coursera)
 
 ### Here's the Specialization link: 
-https://www.coursera.org/specializations/advanced-embedded-linux-development
+<a href="https://www.coursera.org/specializations/advanced-embedded-linux-development"> Advanced Embedded Linux Development</a>
 ## Week-1 Assignments:
 ### Assignment 1 Repo: 
 <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignment-1-ibrahimnazzier" target="_blank">Assignment-1</a>
