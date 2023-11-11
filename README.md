@@ -5,7 +5,7 @@
 https://www.coursera.org/specializations/advanced-embedded-linux-development
 ## Week-1 Assignments:
 ### Assignment 1 Repo: 
-https://github.com/cu-ecen-aeld/assignment-1-ibrahimnazzier
+<a href="https://github.com/cu-ecen-aeld/assignment-1-ibrahimnazzier" target="_blank">Assignment-1</a>
 ### Assignment Objectives:
 1. Getting familiar with assignments environment (setup docker, GitHub actions, and self-hosted runners for automated testing)
 2. Getting familiar with the Linux command line
