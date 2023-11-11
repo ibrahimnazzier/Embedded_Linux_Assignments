@@ -1,5 +1,5 @@
 # Embedded Linux Assignments
-## My GitHub Repositories for My Assignments for the Specialization in Advanced Embedded Linux Development on Coursera
+## These are my GitHub repos where I’ve stored all my assignment work for the ‘Advanced Embedded Linux Development’ specialization I’m doing on Coursera.
 
 ### Here's the Specialization link: 
 <a href="https://www.coursera.org/specializations/advanced-embedded-linux-development"> Advanced Embedded Linux Development</a>
