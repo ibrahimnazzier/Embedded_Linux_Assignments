@@ -40,7 +40,7 @@
 * Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier/blob/master/finder-app/manual-linux.sh" target="_blank">assignment-3-part-2</a>
 * ### Assignment Objectives:
  * Configuring and building Linux kernel With native compilation with BusyBox for programming packages on top of the QEMU emulator
-  Steps: (All compilation done by a ARM64 cross-compier)
+  Steps: (All compilation done by a ARM64 cross-compiler)
  * 3.2.1 Install QEMU as our system will run on top of it
  * 3.2.2 Configure and Build the kernel using the Kconfig utility (defconfig used)
  * 3.2.3 Creating base directories
