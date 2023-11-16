@@ -47,5 +47,5 @@
  * 3.2.4 Configure and install BusyBox
  * 3.2.5 Adding libraries dependencies to rootfs/lib64 & /lib
  * 3.2.6 Make device nodes & create initramsfs
-##Image for the QEMU after doing this steps:
+## Image for the QEMU after doing this steps:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/QEMU_Native_Compilation.jpeg)
