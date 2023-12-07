@@ -22,8 +22,8 @@
 * Installing a Cross-compiler for ARM processors.
 * Writing a Makefile script to compile the .c file for specified ARCH
 
-## Assignment 3 and latter assignment Repo:
-<a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier" target="_blank">Assignment-3-and-letter Assignmets</a>
+## Assignment 3 and later assignment Repo:
+<a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier" target="_blank">Assignment-3-and-later Assignmets</a>
 ### 1. Assignment 3 work
 #### Assignment 3 Part one tagged with realize (assignment-3-part-1)
 * Readings: chapter 5 (Process Management) in Embedded System Programming
