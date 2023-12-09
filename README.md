@@ -49,3 +49,13 @@
  * 3.2.6 Make device nodes & create initramsfs
 ## Image for the QEMU after doing these steps:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/QEMU_Native_Compilation.jpeg)
+
+### Assignment-4-part-1 tagged with release (assignmet-4-part-1)
+* Readings: chapter 7 Thread in Linux System Programming book
+* Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier/tree/master/examples/threading" target="_blank">assignment-4-part-1</a>
+### Assignment Objectives:
+* understanding Concurrency vs Multi-cored threads
+* Dealing with Pthread.h API calls
+* Using Mutex to lock resource to avoid dead locks
+* Joining threads at the end of a process
+* Passing parameters to thread function
