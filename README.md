@@ -77,13 +77,13 @@
 #### Images for Assignment Configuration and Build:
 
 ##### * .mk file for the external package to be added to menuconfig:
-![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/aesd-assignments_mk.png)
 
-##### * External package after added to menuconfig:
-![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+##### External package after added to menuconfig:
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/Menuconfig%20for%20external%20package.png)
 
-##### * Staging Area for the root file system after buildroot build:
-![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+##### Staging Area for the root file system after buildroot build:
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/Staging%20area%20for%20the%20root%20dile%20system.png)
 
 ##### * Runnif bash scripts and c files added to QEMU by Buildroot External Package:
 
