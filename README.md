@@ -62,7 +62,7 @@
 
 ### Assignment-4-part-2 Tagged with release (assignment-4-complete)
 * Readings:
-  * Selecting a Build System (MELP)
+  * Selecting a Build System (Mastering Embedded Linux Programming)
   * Buildroot user manual <a style="text-decoration:none" href="https://buildroot.org/downloads/manual/manual.html" target="_blank">Buildroot Manual</a>
   * Hello world package example: <a href="https://github.com/cu-ecen-5013/buildroot-external/tree/ecen5013-hello-world">Hello World Example</a>
 * Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignment-4-ibrahimnazzier" target="_blank">assignment-4-part-2</a>
