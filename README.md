@@ -87,4 +87,4 @@
 
 ##### * Runnif bash scripts and c files added to QEMU by Buildroot External Package:
 
-![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/Buildroot%20Qemu.png)
