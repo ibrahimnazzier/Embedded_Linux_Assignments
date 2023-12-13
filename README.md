@@ -50,7 +50,7 @@
 ## Image for the QEMU after doing these steps:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/QEMU_Native_Compilation.jpeg)
 
-### Assignment-4-part-1 tagged with release (assignmet-4-part-1)
+#### Assignment-4-part-1 tagged with release (assignmet-4-part-1)
 * Readings: chapter 7 Thread in Linux System Programming book
 * Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier/tree/master/examples/threading" target="_blank">assignment-4-part-1</a>
 ### Assignment Objectives:
@@ -59,3 +59,19 @@
 * Using Mutex to lock resource to avoid dead locks
 * Joining threads at the end of a process
 * Passing parameters to thread function
+
+### Assignment-4-part-2 Tagged with release (assignment-4-complete)
+* Readings:
+            * Selecting a Build System (MELP)
+            * Buildroot user manual <a style="text-decoration:none" href="https://buildroot.org/downloads/manual/manual.html" target="_blank">Buildroot Manual</a>
+            * Hello world package example: <a href="https://github.com/cu-ecen-5013/buildroot-external/tree/ecen5013-hello-world">Hello World Example</a>
+* Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignment-4-ibrahimnazzier" target="_blank">assignment-4-part-2</a>
+#### Assignment Objectives:
+* Understanding Buildroot build system
+* Difference between source tree package & Base_external Package
+* Adding External Package using Menuconfig
+* Adding Buildroot Repo as a git submodule
+* Using another GitHub Repo to build our base_external package
+* Using SSH to login to target (qemu) using loopback address with (dropbear) network package
+
+#### Images for Assignment Configuration and Build:
