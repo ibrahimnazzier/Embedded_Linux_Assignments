@@ -48,7 +48,7 @@
  * 3.2.5 Adding libraries dependencies to rootfs/lib64 & /lib
  * 3.2.6 Make device nodes & create initramsfs
 ## Image for the QEMU after doing these steps:
-![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/QEMU_Native_Compilation.jpeg)
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
 
 #### Assignment-4-part-1 tagged with release (assignmet-4-part-1)
 * Readings: chapter 7 Thread in Linux System Programming book
@@ -75,3 +75,16 @@
 * Using SSH to login to target (qemu) using loopback address with (dropbear) network package
 
 #### Images for Assignment Configuration and Build:
+
+##### * .mk file for the external package to be added to menuconfig:
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+
+##### * External package after added to menuconfig:
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+
+##### * Staging Area for the root file system after buildroot build:
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
+
+##### * Runnif bash scripts and c files added to QEMU by Buildroot External Package:
+
+![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
