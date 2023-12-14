@@ -22,6 +22,7 @@
 * Installing a Cross-compiler for ARM processors.
 * Writing a Makefile script to compile the .c file for specified ARCH
 
+## Week-2 Assignments:
 ## Assignment 3 and later assignments Repo:
 <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier" target="_blank">Assignment-3-and-later Assignmets</a>
 ### 1. Assignment 3 work
@@ -50,6 +51,7 @@
 ## Image for the QEMU after doing these steps:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
 
+## Week-3 Assignments:
 #### Assignment-4-part-1 tagged with release (assignment-4-part-1)
 * Readings: chapter 7 Thread in Linux System Programming book
 * Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier/tree/master/examples/threading" target="_blank">assignment-4-part-1</a>
