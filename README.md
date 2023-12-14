@@ -40,7 +40,7 @@
 * Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier/blob/master/finder-app/manual-linux.sh" target="_blank">assignment-3-part-2</a>
 * ### Assignment Objectives:
  * Configuring and building Linux kernel With native compilation with BusyBox for programming packages on top of the QEMU emulator
-  Steps: (All compilation done by a ARM64 cross-compiler)
+  Steps: (All compilation done by an ARM64 cross-compiler)
  * 3.2.1 Install QEMU as our system will run on top of it
  * 3.2.2 Configure and Build the kernel using the Kconfig utility (defconfig used)
  * 3.2.3 Creating base directories
@@ -50,17 +50,17 @@
 ## Image for the QEMU after doing these steps:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/QEMU_Native_Compilation.jpeg)
 
-#### Assignment-4-part-1 tagged with release (assignmet-4-part-1)
+#### Assignment-4-part-1 tagged with release (assignment-4-part-1)
 * Readings: chapter 7 Thread in Linux System Programming book
 * Work link --> <a style="text-decoration:none" href="https://github.com/cu-ecen-aeld/assignments-3-and-later-ibrahimnazzier/tree/master/examples/threading" target="_blank">assignment-4-part-1</a>
 ### Assignment Objectives:
-* understanding Concurrency vs Multi-cored threads
+* Understanding concurrency vs Multi-cored threads
 * Dealing with Pthread.h API calls
-* Using Mutex to lock resource to avoid dead locks
+* Using Mutex to lock resources to avoid deadlocks
 * Joining threads at the end of a process
-* Passing parameters to thread function
+* Passing parameters to the thread function
 
-### Assignment-4-part-2 Tagged with release (assignment-4-complete)
+### Assignment-4-part-2 Tagged with the release (assignment-4-complete)
 * Readings:
   * Selecting a Build System (Mastering Embedded Linux Programming)
   * Buildroot user manual: <a style="text-decoration:none" href="https://buildroot.org/downloads/manual/manual.html" target="_blank">Buildroot Manual</a>
@@ -72,7 +72,7 @@
 * Adding External Package using Menuconfig
 * Adding Buildroot Repo as a git submodule
 * Using another GitHub Repo to build our base_external package
-* Using SSH to login to target (qemu) using loopback address with (dropbear) network package
+* Using SSH to log in to target (qemu) using loopback address with (dropbear) network package
 
 #### Images for Assignment Configuration and Build:
 
@@ -82,9 +82,8 @@
 ##### External package after added to menuconfig:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/Menuconfig%20for%20external%20package.png)
 
-##### Staging Area for the root file system after buildroot build:
+##### Staging Area for the root file system after Buildroot build:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/Staging%20area%20for%20the%20root%20dile%20system.png)
 
-##### Runnif bash scripts and c files added to QEMU by Buildroot External Package:
-
+##### Running bash scripts and c files added to QEMU by Buildroot External Package:
 ![Alt text](https://github.com/ibrahimnazzier/Embedded_Linux_Assignments/blob/main/Images/Buildroot%20Qemu.png)
